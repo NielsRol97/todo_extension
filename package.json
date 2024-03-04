@@ -1,0 +1,21 @@
+{
+  "name": "todo_extension",
+  "version": "1.0.0",
+  "description": "Small todoapp available within the browser.",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch assets/sass/index.scss assets/css/styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NielsRol97/todo_extension.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NielsRol97/todo_extension/issues"
+  },
+  "homepage": "https://github.com/NielsRol97/todo_extension#readme"
+}
